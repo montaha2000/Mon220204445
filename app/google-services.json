@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899733020128",
+    "firebase_url": "https://fierphoneauthtest-bd927.firebaseio.com",
+    "project_id": "fierphoneauthtest-bd927",
+    "storage_bucket": "fierphoneauthtest-bd927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899733020128:android:37827fb6e235f963965f85",
+        "android_client_info": {
+          "package_name": "com.afq.mon220204445"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899733020128-5jmaeeqmcs8vorf27dnddrhvh9dik8ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTx9B0Un2_clhhZG9mDwFInRKtoPsrEjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899733020128-5jmaeeqmcs8vorf27dnddrhvh9dik8ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
